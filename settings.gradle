@@ -1,0 +1,4 @@
+include 'backend:demo'
+include 'library:auth'
+include 'clients:android'
+rootProject.name = "Example Demo"
