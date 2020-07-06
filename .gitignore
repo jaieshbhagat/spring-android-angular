@@ -76,3 +76,4 @@ Thumbs.db
 captures/
 .externalNativeBuild
 .cxx
+local.properties
