@@ -1,4 +1,4 @@
 include 'backend:demo'
-include 'library:auth'
+include ':library'
 include 'clients:android'
 rootProject.name = "Example Demo"
